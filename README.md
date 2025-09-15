@@ -1,4 +1,19 @@
-# Electronic Store Data Analysis
+# Electronic Store Sales Performance
+
+## Table of Content
+* [ Project Objective](Project-Objective)
+* [EDA and Data Cleaning (SQL)](EDA-and-Data-Cleaning-(SQL))
+* [Outlier Detection](Outlier-Detection)
+* [Overall Data Quality Assessment](Overall-Data-Quality-Assessment)
+* [Report showing all business metrics](Report-showing-all-business-metrics)
+* [Sales & Revenue Analysis](Sales-&-Revenue-Analysis)
+* [Year-over-Year Growth per Product Category](Year-over-Year-Growth-per-Product-Category)
+* [Business Takeaway](Business-Takeaway)
+* [Findings](Findings)
+* [Executive Takeaways](Executive-Takeaways)
+* [Recommendations](Recommendations)
+* [View of the Dashboard](View-of-the-Dashboard)
+
 
 ### Project Objective
 The objective of this project is to design an Electronic Sales Performance system that helps management make data-driven decisions about sales, pricing, and promotions. 
@@ -7,6 +22,9 @@ The objective of this project is to design an Electronic Sales Performance syste
 * Track and monitor accessories across regions to prevent stockouts and overstocking.
 * Identify fast-moving and slow-moving products to optimize stock allocation.
 * Evaluate sales performance by product, category, monthly trend, and region.
+
+< <img width="1024" height="686" alt="Electronic store picture" src="https://github.com/user-attachments/assets/70804660-9992-4386-a0e8-b41c583c5373" />
+
 
 
 * Data Source and import
@@ -29,7 +47,7 @@ Missing Values
 No missing values, duplicates, or unreasonable outliers were detected, and all key business rules were satisfied. 
 The dataset is deemed reliable and fit for accurate business analysis.
 
-###### A report showing all business metrics
+###### Report showing all business metrics
 * Total Sales: 841,248.68
 * Total Quantity Sold: 1,623
 * Sum of Cost: 121,519.9
@@ -87,6 +105,7 @@ Weather: Sunny conditions improve sales, but weather is not a major driver.
 ## Recommendations
 Since the highest sales product is Headphones and there is a significant drop in sales in December probably, due to Christmas for staff and non-functional, it is ideal to have a business website and drive promotional promo so as to increase sales.
 
-
+##### View of the Dashboard
+[Click the link to view the Dashboard](https://docs.google.com/spreadsheets/d/1eoxVxBjJMieEgkZPIWYvkJNEAjOTI70ZkKzSM4KVynk/edit?usp=sharing)
 <img width="1366" height="768" alt="Diagram view of the 2023 vs 2024" src="https://github.com/user-attachments/assets/7a72c894-1f54-48fc-8271-901906b84aa4" />
 
