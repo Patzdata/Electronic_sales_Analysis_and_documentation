@@ -87,3 +87,6 @@ Weather: Sunny conditions improve sales, but weather is not a major driver.
 ## Recommendations
 Since the highest sales product is Headphones and there is a significant drop in sales in December probably, due to Christmas for staff and non-functional, it is ideal to have a business website and drive promotional promo so as to increase sales.
 
+
+<img width="1366" height="768" alt="Diagram view of the 2023 vs 2024" src="https://github.com/user-attachments/assets/7a72c894-1f54-48fc-8271-901906b84aa4" />
+
